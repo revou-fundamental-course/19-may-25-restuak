@@ -1,9 +1,9 @@
 /* BODY */
-
 body {
   background-color: #ffffff;
   padding: 15px;
 }
+
 /* HEADER */
 header {
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -52,8 +52,8 @@ textarea:focus {
   border-color: #7ba3fc;
   background-color: #fabfbf;
 }
-/* TOMBOL */
 
+/* TOMBOL */
 .button-group {
   margin-bottom: 25px;
 }
@@ -71,7 +71,6 @@ textarea:focus {
   box-shadow: 0 5px 10px #e0dedf;
   transition: border-color 0.4s ease, box-shadow 0.3s ease;
 }
-
 .button-group button:hover {
   background: linear-gradient(100deg, #181416, #a8a4a8);
   box-shadow: 0 7px 14px #e0dedf;
@@ -105,7 +104,6 @@ h3 {
 }
 
 /* FOOTER */
-
 footer {
   justify-content: center;
   align-items: center;

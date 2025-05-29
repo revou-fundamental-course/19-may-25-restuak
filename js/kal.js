@@ -3,6 +3,7 @@ let celfar = true;
 function convert() {
   const input = document.getElementById("in").value.trim();
   const value = parseFloat(input);
+
   // VALIDASI INPUT
   if (isNaN(value)) {
     alert(
